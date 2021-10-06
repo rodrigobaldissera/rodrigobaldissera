@@ -1,6 +1,6 @@
 ## Hi, I'm Rodrigo Baldissera
 
--:book: Estudando PHP...
+-:book: Studying PHP...
 
 <div align="center">
   <a href="https://github.com/rodrigobaldissera">
